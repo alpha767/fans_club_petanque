@@ -1,0 +1,854 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Restricted Content\n"
+"POT-Creation-Date: 2020-06-05 08:52+0200\n"
+"PO-Revision-Date: 2018-07-27 11:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/addons/category/category.php:71
+#: includes/addons/category/category.php:88
+msgid "Posts from category visible to:"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:9
+#: includes/addons/login-form/login-form.php:142
+msgid "Login Form"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:11
+msgid ""
+"Set the labels for the login form that you will be using on your pages or "
+"posts and other options related to the login form. Also, you can create "
+"custom IDs for each of the login form elements. "
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:13
+msgid ""
+"NOTE: If you're using Gutenberg editor instead of WordPress' classic editor, "
+"all these option will be available within the included Gutenberg block named "
+"Login Form and you don't have to use shortcode at all. "
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:26
+msgid "Username field label"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:28
+msgid "Username of Email Address"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:29
+msgid "Label for the username field"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:36
+msgid "Password field label"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:38
+#: includes/addons/login-form/login-form.php:168
+msgid "Password"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:39
+msgid "Label for the password field"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:46
+msgid "“Remember Me“ checkbox label"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:48
+#: includes/addons/login-form/login-form.php:169
+msgid "Remember Me"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:49
+msgid "Label for the “Remember me“ checkbox"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:56
+msgid "Log in button label"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:58
+#: includes/addons/login-form/login-form.php:170
+msgid "Log In"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:59
+msgid "Label for the log in button"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:66
+msgid "Redirect URL"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:69
+msgid ""
+"URL to which the user should be redirected after a successful login (an "
+"absolute URL must be used eg. https://example.com/restricted-area/). Leave "
+"empty to remain on the same page after logging in. "
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:76
+msgid "Form ID"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:79
+msgid "HTML element ID for the login form"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:86
+msgid "Username field ID"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:89
+msgid "HTML element ID for username field."
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:96
+msgid "Password field ID"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:99
+msgid "HTML element ID for password field."
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:106
+msgid "“Remember Me” checkbox ID"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:109
+msgid "HTML element ID for “Remember Me” checkbox."
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:116
+msgid "Login button ID"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:119
+msgid "HTML element ID for login / submit button."
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:126
+msgid "Generated Shortcode"
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:130
+msgid ""
+"By clicking the Copy button, generated shortcode will be copied to your "
+"clipboard. You can then paste it to whichever page or post you want to "
+"display a log in form. "
+msgstr ""
+
+#: includes/addons/login-form/login-form.php:167
+msgid "Username or Email Address"
+msgstr ""
+
+#: includes/addons/menus/menus.php:15
+msgid "Menu item visible to:"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:8
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:95
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:10
+msgid ""
+"Generate shortcodes for restricting the content partially based on different "
+"criteria."
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:25
+msgid "Content available to Logged IN users"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:29
+msgid "The content visible to logged in users."
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:35
+msgid "Content available to Logged OUT users"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:39
+msgid "The content visible to logged out users."
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:45
+msgid "Content Available To Users with specific role"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:49
+msgid "The content visible to users with selected user role(s)."
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:55
+msgid "Content Available To Users with specific Capability"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:59
+#, php-format
+msgid ""
+"The content visible to users with a specific user capability. Learn more "
+"about roles and capabilities: %s"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:67
+msgid "Tickera Users"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:71
+msgid "The content visible to users who purchased Tickera tickets"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:79
+#: index.php:1013
+msgid "WooCommerce Users"
+msgstr ""
+
+#: includes/addons/restricted-shortcode/restricted-shortcode.php:83
+msgid "The content visible to users who purchased WooCommerce products."
+msgstr ""
+
+#: includes/addons/site-shield/site-shield.php:8
+msgid "Restrict Site Access"
+msgstr ""
+
+#: includes/addons/site-shield/site-shield.php:12
+msgid ""
+"Do you want to restrict an access to the whole website to only logged in "
+"users?"
+msgstr ""
+
+#: includes/addons/site-shield/site-shield.php:18
+msgid "Restrict REST API Access"
+msgstr ""
+
+#: includes/addons/site-shield/site-shield.php:22
+msgid "Do you want to restrict an access to REST API to only logged in users?"
+msgstr ""
+
+#: includes/addons/site-shield/site-shield.php:33
+#: includes/admin-functions.php:85 includes/admin-functions.php:124
+msgid "Site Shield"
+msgstr ""
+
+#: includes/addons/widgets/widgets.php:6
+msgid "Logged out users"
+msgstr ""
+
+#: includes/addons/widgets/widgets.php:24
+msgid "Widget visible to:"
+msgstr ""
+
+#: includes/admin-functions.php:41
+msgid "Go Premium"
+msgstr ""
+
+#: includes/admin-functions.php:52 includes/admin-functions.php:92
+msgid "Restrict the content of pages or posts"
+msgstr ""
+
+#: includes/admin-functions.php:53
+msgid ""
+"When creating new or editing existing page or post, you will find a dropdown "
+"menu below the content area that will allow you to select the criteria based "
+"on which the content should be restricted. "
+msgstr ""
+
+#: includes/admin-functions.php:56 includes/admin-functions.php:96
+msgid "Integrations"
+msgstr ""
+
+#: includes/admin-functions.php:57
+#, php-format
+msgid ""
+"Restrict has seamless integrations with %sTickera%s and %sWooCommerce%s "
+"allowing you to restrict the content of pages or posts based on criteria "
+"specific for these plugins (i.e. show content to users who purchased a "
+"specific ticket or WooCommerce product). "
+msgstr ""
+
+#: includes/admin-functions.php:60 includes/admin-functions.php:100
+msgid "Restrict part or all the content"
+msgstr ""
+
+#: includes/admin-functions.php:61
+msgid ""
+"With premium version of Restrict, you can easily restrict just part of the "
+"content on any of your pages or posts making it possible to use the same "
+"page or post but with different content based on the set criteria. "
+msgstr ""
+
+#: includes/admin-functions.php:64 includes/admin-functions.php:104
+msgid "Restricting a whole category"
+msgstr ""
+
+#: includes/admin-functions.php:65
+msgid ""
+"There might be cases where you would want to restrict the whole post "
+"category. Premium version of Restrict takes care of that too, allowing you "
+"to easily set the criteria based on which a certain post category will be "
+"displayed or hidden. "
+msgstr ""
+
+#: includes/admin-functions.php:68 includes/admin-functions.php:108
+msgid "Hide and show widgets conditionally"
+msgstr ""
+
+#: includes/admin-functions.php:69
+msgid ""
+"Make widgets show or disappear for different users! Similarly to the content "
+"restriction, you can also restrict which widgets will be shown to what user. "
+msgstr ""
+
+#: includes/admin-functions.php:72 includes/admin-functions.php:112
+msgid "Login form anywhere"
+msgstr ""
+
+#: includes/admin-functions.php:73
+msgid ""
+"Regardless of whether you’re using Gutenberg or classic editor, we made it "
+"easy for you to place the login form on any page or post you want or like"
+msgstr ""
+
+#: includes/admin-functions.php:76 includes/admin-functions.php:116
+msgid "Custom menu"
+msgstr ""
+
+#: includes/admin-functions.php:77
+msgid ""
+"Not every menu item should be accessed by everyone. Because of this, we have "
+"integrated simple yet powerful control over each individual menu item so "
+"that you can show or hide it based on various criteria.\n"
+"        "
+msgstr ""
+
+#: includes/admin-functions.php:81 includes/admin-functions.php:120
+msgid "Hide or show menu items"
+msgstr ""
+
+#: includes/admin-functions.php:82
+msgid ""
+"Easily select which criteria is required to view which menu item. Each menu "
+"item in any of your menus may have different criteria for visibility."
+msgstr ""
+
+#: includes/admin-functions.php:86 includes/admin-functions.php:125
+msgid ""
+"Lock your website to all non-logged in users and restrict It takes just one "
+"click!"
+msgstr ""
+
+#: includes/admin-functions.php:93
+msgid ""
+"When creating new or editing existing page or post, you will find a dropdown "
+"menu below the content area that will allow you to select the criteria based "
+"on which the content should be restricted."
+msgstr ""
+
+#: includes/admin-functions.php:97
+#, php-format
+msgid ""
+"Restrict has seamless integrations with %sTickera%s and %sWooCommerce%s "
+"allowing you to restrict the content of pages or posts based on criteria "
+"specific for these plugins (i.e. show content to users who purchased a "
+"specific ticket or WooCommerce product)."
+msgstr ""
+
+#: includes/admin-functions.php:101
+#, php-format
+msgid ""
+"If you would like to restrict only part of the content of a certain page or "
+"post, head to the %sShortcodes area%s to generate the code which will allow "
+"you to restrict part of the content based on selected criteria."
+msgstr ""
+
+#: includes/admin-functions.php:105
+#, php-format
+msgid ""
+"Within the %sCategories area%s you can now restrict which categories should "
+"be visible or hidden by setting the desired criteria while creating new or "
+"editing existing category.  "
+msgstr ""
+
+#: includes/admin-functions.php:109
+#, php-format
+msgid ""
+"In the %sWidgets area%s of your website, you will notice that every widget "
+"that you have placed in any of your widgets areas will now have a menu "
+"allowing you to display or hide each specific widget to certain users. "
+msgstr ""
+
+#: includes/admin-functions.php:113
+#, php-format
+msgid ""
+"Navigate to the %sLogin Form%s area where you will find plenty of options to "
+"tailor your login form the way you want it. If you’re using Gutenberg "
+"editor, you can simply add a Login Form block for Gutenberg, with the exact "
+"same options. "
+msgstr ""
+
+#: includes/admin-functions.php:117
+#, php-format
+msgid ""
+"Within the %sMenus area%s of your website each menu item now has the "
+"dropdown menu, allowing you to show or hide that item based on selected "
+"criteria."
+msgstr ""
+
+#: includes/admin-functions.php:121
+#, php-format
+msgid ""
+"Easily select which criteria is required to view which menu item. Each menu "
+"item in any of your %smenus%s may have different criteria for visibility."
+msgstr ""
+
+#: includes/admin-functions.php:130
+msgid ""
+"Content of all the posts and pages can be restricted by criteria related to "
+"Tickera plugin. For example, you can restrict the visibility of the content "
+"based on whether the visitor has purchased a ticket for the specific event "
+"or specific ticket type. "
+msgstr ""
+
+#: includes/admin-functions.php:133
+msgid ""
+"Content of all the posts and pages can be restricted by criteria related "
+"specifically to WooCommerce. For example, you can restrict the visibility of "
+"the content based on whether the visitor has purchased any or some specific "
+"WooCommerce product."
+msgstr ""
+
+#: includes/admin-functions.php:176 includes/admin-functions.php:181
+msgid "Yes"
+msgstr ""
+
+#: includes/admin-functions.php:178 includes/admin-functions.php:184
+msgid "No"
+msgstr ""
+
+#: includes/admin-functions.php:192
+msgid "Your content here"
+msgstr ""
+
+#: includes/admin-functions.php:205 includes/admin-functions.php:216
+#: includes/admin-functions.php:243 includes/admin-functions.php:306
+#: includes/admin-functions.php:326 includes/admin-functions.php:353
+#: includes/admin-functions.php:375 includes/admin-functions.php:413
+#: includes/admin-functions.php:433 includes/admin-functions.php:445
+msgid "Copy"
+msgstr ""
+
+#: includes/admin-functions.php:225
+msgid "Select User Roles"
+msgstr ""
+
+#: includes/admin-functions.php:255 includes/admin-functions.php:385
+#: index.php:1139 index.php:1216
+msgid "Who Purchased"
+msgstr ""
+
+#: includes/admin-functions.php:259 index.php:1140
+msgid "Any ticket type"
+msgstr ""
+
+#: includes/admin-functions.php:272 index.php:1145
+msgid "Any ticket type for a specific event"
+msgstr ""
+
+#: includes/admin-functions.php:295 index.php:1149
+msgid "Specific ticket type"
+msgstr ""
+
+#: includes/admin-functions.php:311
+msgid "Select Events"
+msgstr ""
+
+#: includes/admin-functions.php:335
+msgid "Select Ticket Types"
+msgstr ""
+
+#: includes/admin-functions.php:341 index.php:1197
+#, php-format
+msgid "Event ID: %s"
+msgstr ""
+
+#: includes/admin-functions.php:364 index.php:1128
+msgid "User Capability"
+msgstr ""
+
+#: includes/admin-functions.php:367
+msgid "manage_options"
+msgstr ""
+
+#: includes/admin-functions.php:389
+#: includes/classes/class-settings-general.php:181
+msgid "Any Product"
+msgstr ""
+
+#: includes/admin-functions.php:401
+#: includes/classes/class-settings-general.php:190
+msgid "Specific Product"
+msgstr ""
+
+#: includes/admin-functions.php:420
+msgid "Select Product"
+msgstr ""
+
+#: includes/classes/class-fields.php:147 includes/classes/class-fields.php:224
+msgid "Browse"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:26
+#, php-format
+msgid "Thank you for choosing %s%s%s"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:27
+msgid "Simple solution for restricting the content on your WordPress website."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:38
+#: includes/settings/settings.php:18
+msgid "General"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:40
+msgid ""
+"Set up messages that visitors will get if they don’t have permission to view "
+"the restricted content. You can set different messages based on the type of "
+"restriction."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:50
+#: includes/settings/settings.php:21
+msgid "Tickera"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:52
+msgid ""
+"Messages that visitors will get if they don’t have permission to view the "
+"content restricted by Tickera specific criteria"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:62
+#: includes/classes/class-settings-general.php:100
+#: includes/settings/settings.php:25
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:64
+msgid ""
+"Messages that visitors will get if they don’t have permission to view the "
+"content restricted by WooCommerce specific criteria"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:77
+msgid "Bridge for WooCommerce"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:83
+#, php-format
+msgid ""
+"WARNING: In order to track user purchases, you'll need to set \"Force Login"
+"\" option in %s to YES."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:83
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:121
+msgid "Logged In"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:123
+msgid ""
+"A message displayed to non-logged in users when they attempt to view "
+"restricted content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:125
+msgid "You must log in to view this content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:129
+msgid "User Role"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:131
+msgid ""
+"A message displayed to users that do not have a required user role to view "
+"the content. "
+msgstr ""
+
+#: includes/classes/class-settings-general.php:133
+#: includes/classes/class-settings-general.php:141 index.php:256 index.php:260
+msgid "You don't have required permissions to view this content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:137
+msgid "Capability"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:139
+msgid ""
+"A message displayed to users without required user capability to access "
+"restricted content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:148
+msgid "Any Ticket Type"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:150
+msgid "A message displayed to the user that haven't purchased any tickets."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:152 index.php:264
+msgid ""
+"This content is restricted to the attendees only. Please purchase ticket(s) "
+"in order to access this content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:157
+msgid "Specific Ticket Type"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:159
+msgid ""
+"A message displayed to the visitor that haven't purchased a ticket of the "
+"specific, required ticket type"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:160
+msgid ""
+"You can use <strong>[rsc_tc_ticket_type]</strong> placeholder for required "
+"ticket type(s)."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:162 index.php:286
+msgid ""
+"Only attendees who purchased following ticket type(s): [rsc_tc_ticket_type] "
+"can access this content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:168
+msgid "Specific Event"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:170
+msgid ""
+"A message displayed to the visitor that haven't purchased a ticket for the "
+"specific, required event"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:171
+msgid ""
+"You can use <strong>[rsc_tc_event]</strong> placeholder for required "
+"event(s)."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:173 index.php:271
+msgid ""
+"Only attendees who purchased ticket(s) for following event(s): "
+"[rsc_tc_event] can access this content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:183
+msgid ""
+"A message displayed to the user that haven't purchased any WooCommerce "
+"products."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:185 index.php:308
+msgid ""
+"This content is restricted to the clients only. Please purchase any product "
+"in order to access this content."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:192
+msgid ""
+"A message displayed to the visitor that haven't purchased a specific, "
+"required product"
+msgstr ""
+
+#: includes/classes/class-settings-general.php:193
+msgid ""
+"You can use <strong>[rsc_woo_product]</strong> placeholder for required "
+"ticket type(s)."
+msgstr ""
+
+#: includes/classes/class-settings-general.php:195 index.php:314
+msgid ""
+"Only clients who purchased following product(s): [rsc_woo_product] can "
+"access this content."
+msgstr ""
+
+#: includes/comments.php:8
+msgid "Restrict Comments"
+msgstr ""
+
+#: includes/comments.php:12
+msgid ""
+"Select whether the comments of the posts with restricted content should be "
+"restricted as well."
+msgstr ""
+
+#: includes/comments.php:23
+msgid "Comments"
+msgstr ""
+
+#: includes/settings/settings-general.php:18
+msgid "Settings data has been successfully saved."
+msgstr ""
+
+#: includes/settings/settings-general.php:20
+msgid "You do not have required permissions for this action."
+msgstr ""
+
+#: includes/settings/settings-general.php:153
+msgid "Save Settings"
+msgstr ""
+
+#: includes/settings/settings.php:17
+msgid "Welcome"
+msgstr ""
+
+#: includes/settings/settings.php:52
+#, php-format
+msgid "View %s Documentation"
+msgstr ""
+
+#: includes/settings/settings.php:60
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/settings/settings.php:65
+#, php-format
+msgid ""
+"Your current version of PHP is %s and recommended version is at least 5.3. "
+"You should contact your hosting company and %sask for upgrade%s."
+msgstr ""
+
+#: includes/settings/settings.php:92
+msgid "Review Restrict at WordPress.org"
+msgstr ""
+
+#: includes/settings/settings.php:93
+msgid "Add a Review"
+msgstr ""
+
+#: includes/settings/settings.php:97
+msgid "View Documentation"
+msgstr ""
+
+#: includes/settings/welcome-page.php:8
+msgid "Restrict PRO features"
+msgstr ""
+
+#: includes/settings/welcome-page.php:11
+msgid "Restrict free plan features"
+msgstr ""
+
+#: includes/settings/welcome-page.php:65
+msgid "Upgrade to the premium version and get the following features"
+msgstr ""
+
+#: includes/settings/welcome-page.php:67
+msgid "GO PREMIUM"
+msgstr ""
+
+#: index.php:152
+#, php-format
+msgid ""
+"There was an issue determining where %s is installed. Please reinstall it."
+msgstr ""
+
+#: index.php:163 index.php:639
+msgid "Settings"
+msgstr ""
+
+#: index.php:252
+msgid "You must log in to view this content"
+msgstr ""
+
+#: index.php:295
+msgid "event"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: index.php:642
+msgid "Restrict"
+msgstr ""
+
+#: index.php:939
+msgid "Content Available To"
+msgstr ""
+
+#: index.php:1000
+msgid "Everyone"
+msgstr ""
+
+#: index.php:1001
+msgid "Logged in users"
+msgstr ""
+
+#: index.php:1002
+msgid "Users with specific role"
+msgstr ""
+
+#: index.php:1003
+msgid "Users with specific capability"
+msgstr ""
+
+#: index.php:1008
+#, php-format
+msgid "%s Users"
+msgstr ""
+
+#: index.php:1110
+msgid "Select a User Role"
+msgstr ""
+
+#: index.php:1217
+msgid "Any product"
+msgstr ""
+
+#: index.php:1219
+msgid "Specific product"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://restrict.io/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily restrict the access to the content on your website to logged in "
+"users, users with a specific role or capability, Tickera users or "
+"WooCommerce users who made any purchases or purchased a specific item."
+msgstr ""

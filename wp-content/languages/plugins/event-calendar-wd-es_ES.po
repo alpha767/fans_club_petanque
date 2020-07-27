@@ -1,0 +1,2177 @@
+# Translation of Plugins - Event Calendar WD &#8211; Responsive Event Calendar plugin - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Event Calendar WD &#8211; Responsive Event Calendar plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-14 19:30:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Event Calendar WD &#8211; Responsive Event Calendar plugin - Stable (latest release)\n"
+
+#: ecwd_admin_class.php:1244
+msgid "User guide"
+msgstr "Guía de usuario"
+
+#: ecwd_admin_class.php:1230
+msgid "Upgrade"
+msgstr "Actualizar"
+
+#: ecwd_admin_class.php:1223
+msgid "Event Calendar by 10Web Premium"
+msgstr "Event Calendar por 10Web Premium"
+
+#: ecwd_admin_class.php:1159
+msgid "Help"
+msgstr "Ayuda"
+
+#: ecwd_admin_class.php:556 ecwd_admin_class.php:1258 ecwd_admin_class.php:1281
+msgid "Ask a question"
+msgstr "Haz una pregunta"
+
+#: includes/elementorWidget.php:67
+msgid "Edit calendar"
+msgstr "Editar el calendario"
+
+#: includes/elementorWidget.php:67
+msgid "Select the calendar to display."
+msgstr "Seleccionar el calendario a mostrar."
+
+#: ecwd_admin_class.php:176
+msgid "- Select -"
+msgstr "- Seleccionar -"
+
+#: ecwd_admin_class.php:175
+msgid "Nothing selected."
+msgstr "Nada seleccionado."
+
+#: ecwd_admin_class.php:148
+msgid "Select %s"
+msgstr "Seleciona %s"
+
+#: wd/wd.php:72 wd/wd.php:76
+msgid "Premium"
+msgstr "Premium"
+
+#: wd/templates/display_subscribe.php:33
+msgid "We will not sell, share, or distribute your personal information to third parties."
+msgstr "Nosotros no venderemos, compartiremos o distribuiremos tu información personal a terceras partes."
+
+#: wd/templates/display_subscribe.php:29
+msgid "Skip"
+msgstr "Omitir"
+
+#: wd/templates/display_subscribe.php:27
+msgid "Allow & Continue"
+msgstr "Permitir y continuar"
+
+#: wd/templates/display_subscribe.php:19
+msgid "Site URL, Wordpress version"
+msgstr "URL del sitio, versión de WordPress"
+
+#: wd/templates/display_subscribe.php:15
+msgid "Your name & Email address"
+msgstr "Tu nombre y dirección de correo electrónico"
+
+#: wd/templates/display_subscribe.php:6
+msgid "Allow 10Web to collect some usage data"
+msgstr "Permitir a 10Web recoger algunos datos de uso"
+
+#: wd/templates/display_overview.php:103
+msgid "Checkout how it works"
+msgstr "Comprueba como funciona"
+
+#: wd/templates/display_overview.php:94
+msgid "More great features of the plugin"
+msgstr "Más características excelentes del plugin"
+
+#: wd/templates/display_overview.php:81
+msgid " features you get!"
+msgstr "¡Características que obtienes!"
+
+#: wd/templates/display_overview.php:75 wd/templates/display_overview.php:96
+msgid "Learn More"
+msgstr "Aprende más."
+
+#: wd/templates/display_overview.php:73 wd/templates/display_overview.php:121
+msgid "Get free for 14 days"
+msgstr "Consíguelo gratis durante 14 días"
+
+#: wd/templates/display_overview.php:69
+msgid "We’ll soon be offering affordable hosting solution with WordPress-friendly features and great customer support."
+msgstr "Pronto ofreceremos una solución de alojamiento asequible con funciones compatibles con WordPress y una excelente atención al cliente."
+
+#: wd/templates/display_overview.php:68
+msgid "Hosting"
+msgstr "Alojamiento"
+
+#: wd/templates/display_overview.php:63
+msgid "Automatically resize and compress all images on your website to save space and improve site speed."
+msgstr "Cambia el tamaño y comprime automáticamente todas las imágenes de tu web para ahorrar espacio y mejorar la velocidad del sitio."
+
+#: wd/templates/display_overview.php:62
+msgid "Image optimization"
+msgstr "Optimización de imágenes"
+
+#: wd/templates/display_overview.php:57
+msgid "Protect your WordPress site from security issues and threats with a powerful security service coming soon to 10Web."
+msgstr "Protege tu sitio WordPress de problemas y amenazas de seguridad con un poderoso servicio de seguridad que pronto llegará a 10Web."
+
+#: wd/templates/display_overview.php:56
+msgid "Security"
+msgstr "Seguridad"
+
+#: wd/templates/display_overview.php:51
+msgid "Improve search rankings of your WordPress site with a comprehensive search engine optimization solution."
+msgstr "Mejora las clasificaciones de búsqueda de tu sitio WordPress con una solución integral de optimización para motores de búsqueda."
+
+#: wd/templates/display_overview.php:50
+msgid "SEO"
+msgstr "SEO"
+
+#: wd/templates/display_overview.php:44
+msgid "10Web cloud storage space. Easily and securely backup your website in our storage."
+msgstr "Espacio de almacenamiento en la nube 10Web. Haz una copia de seguridad de tu web de forma fácil y segura en nuestro almacenamiento."
+
+#: wd/templates/display_overview.php:43
+msgid "Backup"
+msgstr "Copia de seguridad"
+
+#: wd/templates/display_overview.php:38
+msgid "Professionally designed, responsive themes for your website. Build fully-functional, elegant websites effortlessly."
+msgstr "Temas adaptables diseñados profesionalmente para tu web. Crea webs elegantes y totalmente funcionales sin esfuerzo."
+
+#: wd/templates/display_overview.php:37
+msgid "Premium WordPress themes"
+msgstr "Temas premium para WordPress"
+
+#: wd/templates/display_overview.php:33
+msgid "Manage your WordPress websites all in one place within a single dashboard. No need to switch between sites."
+msgstr "Administra tus webs WordPress en un solo lugar dentro de un solo escritorio. No es necesario cambiar entre sitios."
+
+#: wd/templates/display_overview.php:32
+msgid "Unified dashboard"
+msgstr "Escritorio unificado"
+
+#: wd/templates/display_overview.php:28
+msgid "Access 60+ plugins and extensions, including key plugins, such as gallery, form, slider, social plugins and more."
+msgstr "Accede a más de 60 plugins y extensiones, incluidos los plugins clave, como galería, formulario, carrusel, plugins sociales y más."
+
+#: wd/templates/display_overview.php:27
+msgid "60+ pro plugins/Extensions"
+msgstr "Más de 60 plugins/extensiones pro"
+
+#: wd/templates/display_overview.php:21 wd/templates/display_overview.php:81
+msgid "Premium "
+msgstr "Premium"
+
+#: wd/templates/display_overview.php:13
+msgid "Try Free"
+msgstr "Prueba gratuita"
+
+#: wd/templates/display_overview.php:10 wd/templates/display_overview.php:119
+msgid "Get Premium %s and Other Solutions Essential for Your WordPress Site."
+msgstr "Obtén %s Premium y otras soluciones esenciales para tu sitio WordPress."
+
+#: includes/elementorWidget.php:280
+msgid "There is no Calendar selected or the Calendar was deleted."
+msgstr "No hay ningún calendario seleccionado o el calendario ha sido borrado."
+
+#: includes/elementorWidget.php:243
+msgid "Select"
+msgstr "Seleccionar"
+
+#: includes/elementorWidget.php:204
+msgid "View 7"
+msgstr "Vista 7"
+
+#: includes/elementorWidget.php:193
+msgid "View 6"
+msgstr "Vista 6"
+
+#: includes/elementorWidget.php:182
+msgid "View 5"
+msgstr "Vista 5"
+
+#: includes/elementorWidget.php:175
+msgid "Upgrade to Premium version to access three more view options: posterboard, map and 4 days"
+msgstr "Actualiza a la versión Premium y accede a tres opciones de vista más: cartel, mapa y 4 días"
+
+#: includes/elementorWidget.php:131
+msgid "Posterboard"
+msgstr "Cartel"
+
+#: includes/elementorWidget.php:130
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/elementorWidget.php:129
+msgid "4 Days"
+msgstr "4 días"
+
+#: includes/elementorWidget.php:98
+msgid "Date format Y-m (2016-05) or empty for current date"
+msgstr "Formato de fecha Y-m (2016-05) o vacío para la fecha actual"
+
+#: includes/elementorWidget.php:86
+msgid "Per page in list view"
+msgstr "Por página en vista de lista"
+
+#: includes/elementorWidget.php:19
+msgid "Event Calendar"
+msgstr "Event Calendar"
+
+#: ecwd_class.php:418
+msgid "10WEB Plugins"
+msgstr "10WEB Plugins"
+
+#: ecwd_class.php:111
+msgid "Could not load the localization file: "
+msgstr "No se ha podido cargar el archivo de localización: "
+
+#: ecwd_admin_class.php:523 ecwd_admin_class.php:524
+msgid "Calendar Extensions"
+msgstr "Extensiones de calendario"
+
+#. Author URI of the plugin
+msgid "https://10web.io/plugins/"
+msgstr "https://10web.io/plugins/"
+
+#. Author of the plugin
+msgid "10Web"
+msgstr "10Web"
+
+#. Plugin URI of the plugin
+msgid "https://10web.io/plugins/wordpress-event-calendar/"
+msgstr "https://10web.io/plugins/wordpress-event-calendar/"
+
+#: includes/register-settings.php:108
+msgid "Delete past events"
+msgstr "Borrar eventos pasados"
+
+#: includes/register-settings.php:78
+msgid "Export to GCal/ICal"
+msgstr "Exportar a GCal/ICal"
+
+#: includes/register-settings.php:75
+msgid "Subscribe"
+msgstr "Suscribirse"
+
+#: includes/register-settings.php:74
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: includes/register-settings.php:73
+msgid "Countdown"
+msgstr "Cuenta atrás"
+
+#: includes/register-settings.php:72
+msgid "Frontend Event Management"
+msgstr "Portada de gestión de eventos"
+
+#: includes/ecwd-uninstall.php:259
+msgid "To Finish the Uninstallation and Event Calendar WD will be Deactivated Automatically."
+msgstr "Para finalizar la desinstalación, Event Calendar WD se desactivará automáticamente"
+
+#: includes/ecwd-uninstall.php:259
+msgid "Click Here"
+msgstr "Haz clic aquí"
+
+#: includes/ecwd-uninstall.php:206
+msgid "You are About to Uninstall Event Calendar WD from WordPress. This Action Is Not Reversible."
+msgstr "Vas a desinstalar Event Calendar WD de WordPress. Esta acción no es reversible."
+
+#: includes/ecwd-uninstall.php:186
+msgid "Do you really want to uninstall Event Calendar WD ?"
+msgstr "¿Realmente quieres desinstalar Event Calendar WD?"
+
+#: includes/ecwd-uninstall.php:169
+msgid "Database options"
+msgstr "Opciones de base de datos"
+
+#: includes/ecwd-uninstall.php:150
+msgid "Terms of these taxonomies"
+msgstr "Términos de éstas taxonomías"
+
+#: includes/ecwd-uninstall.php:130
+msgid "Posts of these types"
+msgstr "Entradas de esos tipos"
+
+#: includes/ecwd-uninstall.php:125
+msgid "The following Database Tables will be deleted:"
+msgstr "Las siguientes tablas de la base de datos serán borradas:"
+
+#: includes/ecwd-uninstall.php:122
+msgid "Once uninstalled, this can't be undone. You should use a Database Backup plugin of WordPress to back up all the data first."
+msgstr "Una vez desinstalado, esta acción no podrá deshacerse. Debes usar un plugin de copia de seguridad de la base de datos para WordPress para hacer primero copia de seguridad de todos los datos."
+
+#: includes/ecwd-uninstall.php:121
+msgid "WARNING:"
+msgstr "ADVERTENCIA:"
+
+#: includes/ecwd-uninstall.php:118
+msgid "Deactivating Event Calendar WD plugin does not remove any data that may have been created. To completely remove this plugin, you can uninstall it here. Uninstalling Event Calendar WD will also remove the data of its extensions."
+msgstr "Desactivar el plugin Event Calendar WD no elimina ningún dato que pueda haberse creado. Para eliminar completamente este plugin, puedes desinstalarlo aquí. Desinstalando Event Calendar WD también eliminará los datos de sus extensiones."
+
+#: includes/ecwd-uninstall.php:107 includes/ecwd-uninstall.php:255
+msgid "Uninstall Event Calendar WD"
+msgstr "Desinstalar Event Calendar WD"
+
+#: includes/register-settings.php:229 ecwd_admin_class.php:331
+#: ecwd_admin_class.php:332
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: wd/templates/display_deactivation_popup.php:8
+msgid "Please let us know why you are deactivating. Your answer will help us to provide you support or sometimes offer discounts. (Optional)"
+msgstr "Por favor, déjanos saber por qué estás desactivando. Tu respuesta nos ayudará a proporcionarte soporte o, a veces, ofrecerte descuentos. (Opcional)"
+
+#: wd/includes/deactivate.php:45
+msgid "Upgrading to paid version"
+msgstr "Actualizando a la versión de pago"
+
+#: views/admin/ecwd-calendar-meta.php:82
+msgid "Create more events"
+msgstr "Crear más eventos"
+
+#: includes/register-settings.php:365
+msgid "Use custom template"
+msgstr "Usar plantilla personalizada"
+
+#: ecwd.php:72
+msgid "10Web Disclaimer: The above text is for informational purposes only and is not a legal advice. You must not rely on it as an alternative to legal advice. You should contact your legal counsel to obtain advice with respect to your particular case."
+msgstr "Exención de responsabilidad de 10Web: El texto anterior es solo para fines informativos y no es un consejo legal. No debes confiar en él como una alternativa al asesoramiento legal. Debes contactar con tu asesor legal para obtener asesoramiento con respecto a tu caso particular."
+
+#: ecwd.php:70
+msgid "Event Calendar WD plugin optionally embeds Google Maps on front end to display events on the map. Embedded Google Maps behave in the exact same way as if you has visited Google Maps site. Google may collect data about visitors, use cookies and tracking, included your logged-in experience interaction with Google platform. Google Maps are regulated under terms of Google %s."
+msgstr "Event Calendar WD plugin incrusta opcionalmente Google Maps en la portada para mostrar eventos en el mapa. Google Maps incrustado se comporta exactamente de la misma manera que si hubieras visitado el sitio de Google Maps. Google puede recopilar datos sobre los visitantes, usar cookies y seguimiento, incluyendo la interacción de tu experiencia de conexión con la plataforma de Google. Google Maps está regulado bajo los términos de Google %s."
+
+#: wd/templates/display_subscribe.php:45
+msgid "Terms of Use"
+msgstr "Términos de uso"
+
+#: wd/templates/display_subscribe.php:11
+msgid "What data is being collected?"
+msgstr "¿Qué datos se están recogiendo?"
+
+#: wd/templates/display_subscribe.php:5
+msgid "Hi there!"
+msgstr "¡Hola!"
+
+#: wd/templates/display_deactivation_popup.php:23
+msgid "Submit and Deactivate"
+msgstr "Enviar y desactivar"
+
+#: wd/templates/display_deactivation_popup.php:22
+msgid "Skip and Deactivate"
+msgstr "Saltar y desactivar"
+
+#: wd/templates/display_subscribe.php:23
+msgid "List of plugins"
+msgstr "Lista de plugins"
+
+#: wd/templates/display_overview.php:111
+msgid "User Guide"
+msgstr "Guía del usuario"
+
+#: wd/includes/notices.php:216
+msgid "Never show again"
+msgstr "No mostrar de nuevo"
+
+#: wd/includes/notices.php:215
+msgid "Maybe Later"
+msgstr "Quizá más tarde"
+
+#: wd/includes/notices.php:214
+msgid "I've already left a review"
+msgstr "Ya he dejado una reseña"
+
+#: wd/includes/notices.php:213
+msgid "Sure! I'd love to!"
+msgstr "¡Claro! ¡Me encantaría!"
+
+#: wd/includes/notices.php:211
+msgid "Leave A Review?"
+msgstr "¿Dejar una reseña?"
+
+#: wd/includes/deactivate.php:49
+msgid "Temporary deactivation"
+msgstr "Desactivación temporal"
+
+#: wd/includes/deactivate.php:41
+msgid "Free version is limited"
+msgstr "La versión gratuita está limitada"
+
+#: wd/includes/deactivate.php:37
+msgid "Technical problems / hard to use"
+msgstr "Problemas técnicos / difícil de usar"
+
+#: views/widgets.php:189
+msgid "Events per page in list view:"
+msgstr "Eventos por página en vista de lista:"
+
+#: views/widgets.php:185
+msgid "Grey"
+msgstr "Gris"
+
+#: views/widgets.php:183
+msgid "Default Blue"
+msgstr "Azul por defecto"
+
+#: views/widgets.php:176 views/widgets.php:181
+msgid "Calendar theme"
+msgstr "Tema del calendario"
+
+#: views/widgets.php:167
+msgid "Display Events as:"
+msgstr "Mostrar eventos como:"
+
+#: views/widgets.php:154
+msgid "Calendar to display"
+msgstr "Calendario a mostrar"
+
+#: views/widgets.php:149
+msgid "Title:"
+msgstr "Título:"
+
+#: views/widgets.php:130
+msgid "Add your first calendar!"
+msgstr "¡Añade tu primer calendario!"
+
+#: views/widgets.php:129
+msgid "There are no calendars created yet."
+msgstr "Todavía no hay calendarios creados."
+
+#: views/widgets.php:95
+msgid "You have not added any events yet."
+msgstr "Todavía no has añadido ningún calendario."
+
+#: views/widgets.php:18
+msgid "Descr"
+msgstr "Descr"
+
+#: includes/register-settings.php:76 views/related_events.php:7
+msgid "Upcoming events"
+msgstr "Próximos eventos"
+
+#: views/related_events.php:5
+msgid "Related upcoming events"
+msgstr "Próximos eventos relacionados"
+
+#: views/ecwd-venue-content.php:104 views/single-event.php:311
+#: views/ecwd-event-content.php:307 views/ecwd-event-popup.php:266
+msgid "Location"
+msgstr "Ubicación"
+
+#: views/single-event.php:223 views/ecwd-event-content.php:218
+#: views/ecwd-event-popup.php:189
+msgid "Url"
+msgstr "URL"
+
+#: views/admin/licensing.php:96
+msgid "Delete Event Calendar WD plugin."
+msgstr "Eliminar el plugin Event Calendar WD."
+
+#: views/admin/licensing.php:95
+msgid "Deactivate Event Calendar WD plugin."
+msgstr "Desactivar el plugin Event Calendar WD."
+
+#: views/admin/licensing.php:47
+msgid "Free"
+msgstr "Gratuito"
+
+#: views/admin/licensing.php:42
+msgid "Map view"
+msgstr "Vista de mapa"
+
+#: views/admin/licensing.php:41
+msgid "4 days view"
+msgstr "Vista de 4 días"
+
+#: views/admin/licensing.php:39
+msgid "5 beautiful customizable themes"
+msgstr "5 hermosos temas personalizables"
+
+#: views/admin/licensing.php:38
+msgid "Recurring events"
+msgstr "Eventos recurrentes"
+
+#: views/admin/licensing.php:37
+msgid "Month, week, day, list views"
+msgstr "Vistas de mes, semana, día, lista"
+
+#: views/admin/licensing.php:36
+msgid "Social media integration"
+msgstr "Integración de redes sociales"
+
+#: views/admin/licensing.php:35
+msgid "Event search"
+msgstr "Buscar evento"
+
+#: views/admin/licensing.php:34
+msgid "Google Maps integration"
+msgstr "Integración de Google Maps"
+
+#: views/admin/licensing.php:33
+msgid "Support for organizers"
+msgstr "Soporte para organizadores"
+
+#: views/admin/licensing.php:31
+msgid "Event tag"
+msgstr "Etiqueta del evento"
+
+#: views/admin/licensing.php:30
+msgid "Event categories"
+msgstr "Categorías de eventos"
+
+#: views/admin/licensing.php:29
+msgid "Structured event markup (microdata)"
+msgstr "Marcado de evento estructurado (microdatos)"
+
+#: views/admin/licensing.php:28
+msgid "Unlimited number of calendars/events"
+msgstr "Ilimitado número de calendarios/eventos"
+
+#: views/admin/licensing.php:27
+msgid "Responsive design"
+msgstr "Diseño adaptable"
+
+#: views/admin/licensing.php:26
+msgid "SEO-friendly"
+msgstr "Optimizado para SEO"
+
+#: views/admin/licensing.php:25
+msgid "WordPress 3.9+ ready"
+msgstr "Preparado para WordPress 3.9+"
+
+#: views/admin/import.php:47
+msgid "Download Export File"
+msgstr "Descargar el archivo de exportación"
+
+#: views/admin/import.php:34
+msgid "Import"
+msgstr "Importar"
+
+#: views/admin/import.php:32
+msgid "Choose csv file"
+msgstr "Elige un archivo CSV"
+
+#: views/admin/ecwd-venue-meta.php:52
+msgid "Show Google Maps"
+msgstr "Mostrar Google Maps"
+
+#: views/admin/ecwd-shortcode-iframe.php:138
+msgid "View"
+msgstr "Vista"
+
+#: includes/elementorWidget.php:77 views/admin/ecwd-shortcode-iframe.php:57
+#: views/admin/ecwd-shortcode-iframe.php:61
+msgid "Mini"
+msgstr "Mini"
+
+#: includes/elementorWidget.php:78 views/admin/ecwd-shortcode-iframe.php:56
+#: views/admin/ecwd-shortcode-iframe.php:60
+msgid "Full"
+msgstr "Completo"
+
+#: wd/templates/display_overview.php:107
+msgid "Demo"
+msgstr "Demo"
+
+#: views/admin/ecwd-event-venues-meta.php:291
+msgid "Save Venue"
+msgstr "Guardar el local"
+
+#: views/admin/ecwd-event-venues-meta.php:268
+#: views/admin/ecwd-venue-meta.php:113
+msgid "Get a key"
+msgstr "Consigue una clave"
+
+#: views/admin/ecwd-event-venues-meta.php:267
+#: views/admin/ecwd-venue-meta.php:112
+msgid "You need Google Maps API key to display maps."
+msgstr "Necesitas una clave de la API de Google Maps para mostrar mapas."
+
+#: views/admin/ecwd-event-venues-meta.php:262
+msgid "If venue is not specified you can fill in the address of the event location or click on the map to drag and drop the marker to the event location."
+msgstr "Si no se especifica el local, puedes completar la dirección de la ubicación del evento o hacer clic en el mapa para arrastrar y soltar el marcador en la ubicación del evento."
+
+#: views/admin/ecwd-event-venues-meta.php:171
+msgid "Show Google Map"
+msgstr "Mostrar el mapa Google"
+
+#: views/admin/ecwd-event-venues-meta.php:159
+#: views/admin/ecwd-venue-meta.php:32
+msgid "Address"
+msgstr "Dirección"
+
+#: views/admin/ecwd-event-venues-meta.php:113
+msgid "Website:"
+msgstr "Web:"
+
+#: views/admin/ecwd-event-venues-meta.php:107
+msgid "Phone:"
+msgstr "Teléfono:"
+
+#: views/admin/ecwd-event-venues-meta.php:101 views/single-event.php:301
+#: views/ecwd-event-content.php:291 views/ecwd-event-popup.php:258
+msgid "Address:"
+msgstr "Dirección:"
+
+#: views/admin/ecwd-event-venues-meta.php:96
+msgid "Select the venue of the event."
+msgstr "Selecciona el local del evento."
+
+#: views/admin/ecwd-event-venues-meta.php:81
+msgid "Create New"
+msgstr "Crear nuevo"
+
+#: views/admin/ecwd-event-venues-meta.php:77
+msgid "Event Venue"
+msgstr "Local del evento"
+
+#: views/admin/ecwd-event-organizers-meta.php:59
+msgid "Save Organizer"
+msgstr "Guardar organizador"
+
+#: views/ecwd-venue-content.php:112 views/ecwd-organizer-content.php:95
+#: views/admin/ecwd-organizer-meta.php:29
+#: views/admin/ecwd-event-organizers-meta.php:54
+#: views/admin/ecwd-event-venues-meta.php:139
+#: views/admin/ecwd-venue-meta.php:46 views/single-event.php:265
+#: views/single-event.php:295 views/ecwd-event-content.php:261
+#: views/ecwd-event-content.php:286 views/ecwd-event-popup.php:231
+#: views/ecwd-event-popup.php:252
+msgid "Website"
+msgstr "Sitio web"
+
+#: views/ecwd-venue-content.php:108 views/ecwd-organizer-content.php:91
+#: views/admin/ecwd-organizer-meta.php:22
+#: views/admin/ecwd-event-organizers-meta.php:48
+#: views/admin/ecwd-event-venues-meta.php:133
+#: views/admin/ecwd-venue-meta.php:39 views/single-event.php:259
+#: views/single-event.php:291 views/ecwd-event-content.php:255
+#: views/ecwd-event-content.php:283 views/ecwd-event-popup.php:225
+#: views/ecwd-event-popup.php:248
+msgid "Phone"
+msgstr "Teléfono"
+
+#: views/admin/ecwd-event-organizers-meta.php:34
+msgid "Title"
+msgstr "Título"
+
+#: views/admin/ecwd-event-organizers-meta.php:28
+msgid "Add organizer"
+msgstr "Añadir organizador"
+
+#: views/admin/ecwd-event-meta.php:431
+msgid "Event Video URL"
+msgstr "URL del vídeo del evento"
+
+#: views/admin/ecwd-event-meta.php:420
+msgid "Event URL"
+msgstr "URL del evento"
+
+#: views/admin/ecwd-event-meta.php:413
+msgid "Upgrade to Premium version"
+msgstr "Actualizar a la versión premium"
+
+#: views/admin/ecwd-event-meta.php:390
+msgid "Repeat until"
+msgstr "Repetir hasta"
+
+#: views/admin/ecwd-event-meta.php:278 views/admin/ecwd-event-meta.php:363
+msgid "Last"
+msgstr "Última"
+
+#: views/admin/ecwd-event-meta.php:276 views/admin/ecwd-event-meta.php:361
+msgid "Fourth"
+msgstr "Cuarto"
+
+#: views/admin/ecwd-event-meta.php:274 views/admin/ecwd-event-meta.php:359
+msgid "Third"
+msgstr "Tercera"
+
+#: views/admin/ecwd-event-meta.php:272 views/admin/ecwd-event-meta.php:357
+msgid "Second"
+msgstr "Segunda"
+
+#: views/admin/ecwd-event-meta.php:270 views/admin/ecwd-event-meta.php:355
+msgid "First"
+msgstr "Primera"
+
+#: views/admin/ecwd-event-meta.php:266 views/admin/ecwd-event-meta.php:351
+msgid "On the: "
+msgstr "En el:"
+
+#: views/admin/ecwd-event-meta.php:250 views/admin/ecwd-event-meta.php:335
+msgid "On the same day"
+msgstr "En el mismo día"
+
+#: views/admin/ecwd-event-meta.php:147
+msgid "year(s) in "
+msgstr "año(s) en"
+
+#: views/admin/ecwd-event-meta.php:143
+msgid "month(s)"
+msgstr "mes(es)"
+
+#: views/admin/ecwd-event-meta.php:138
+msgid "weeks(s)"
+msgstr "semana(s)"
+
+#: views/admin/ecwd-event-meta.php:133
+msgid "day(s)"
+msgstr "día(s)"
+
+#: views/admin/ecwd-event-meta.php:121
+msgid "Yearly"
+msgstr "Anualmente"
+
+#: views/admin/ecwd-event-meta.php:108
+msgid "Monthly"
+msgstr "Mensualmente"
+
+#: views/admin/ecwd-event-meta.php:93
+msgid "Weekly"
+msgstr "Semanalmente"
+
+#: views/admin/ecwd-event-meta.php:81
+msgid "Daily"
+msgstr "Diariamente"
+
+#: views/admin/ecwd-event-meta.php:71
+msgid "Don't repeat"
+msgstr "No repetir"
+
+#: views/admin/ecwd-event-meta.php:57 views/admin/ecwd-event-meta.php:410
+msgid "Repeat rate"
+msgstr "Frecuencia de repetición"
+
+#: views/admin/ecwd-event-meta.php:50
+msgid "Fill in the starting and ending dates and time of the event. If the event lasts entire day, check the box on the right."
+msgstr "Completa las fechas y horas de inicio y finalización del evento. Si el evento dura todo el día, marca la casilla de la derecha."
+
+#: views/admin/ecwd-event-cat-meta.php:26
+msgid "Choose the color"
+msgstr "Elegir el color"
+
+#: views/admin/ecwd-event-cat-meta.php:20
+#: views/admin/ecwd-event-cat-meta.php:37
+msgid "Category color"
+msgstr "Color de la categoría"
+
+#: views/admin/ecwd-event-cat-meta.php:13
+msgid "Remove image"
+msgstr "Eliminar la imagen"
+
+#: views/admin/ecwd-event-cat-meta.php:11
+#: views/admin/ecwd-event-cat-meta.php:34
+msgid "Upload/Add image"
+msgstr "Subir/añadir una imagen"
+
+#: views/admin/ecwd-event-cat-meta.php:4 views/admin/ecwd-event-cat-meta.php:31
+msgid "Image"
+msgstr "Imagen"
+
+#: views/admin/ecwd-config.php:14
+msgid "Value"
+msgstr "Valor"
+
+#: views/admin/ecwd-config.php:13 views/admin/ecwd-event-organizers-meta.php:41
+#: views/admin/ecwd-event-venues-meta.php:127
+msgid "Description"
+msgstr "Descripción"
+
+#: views/admin/ecwd-calendar-meta.php:114
+msgid "Upgrade to Premium for more themes."
+msgstr "Actualizar a Premium para más temas"
+
+#: views/admin/ecwd-calendar-meta.php:111
+msgid "Saddle Brown"
+msgstr "Marrón oscuro"
+
+#: views/admin/ecwd-calendar-meta.php:110
+msgid "Orange (Gamboge)"
+msgstr "Naranja"
+
+#: views/admin/ecwd-calendar-meta.php:109
+msgid "Red (Crimson)"
+msgstr "Rojo (Carmesí)"
+
+#: views/admin/ecwd-calendar-meta.php:108
+msgid "Greenish-Blue (Teal)"
+msgstr "Verde azulado"
+
+#: views/admin/ecwd-calendar-meta.php:107
+msgid "Green (Jade)"
+msgstr "Verde (Jade)"
+
+#: views/admin/ecwd-calendar-meta.php:78
+msgid "Select Events from the list"
+msgstr "Selecciona los eventos de la lista"
+
+#: views/admin/ecwd-calendar-meta.php:31
+msgid "Copy and paste this shortcode to display this Calendar event on any post or page."
+msgstr "Copia y pega este shortcode para mostrar este evento de calendario en cualquier entrada o página."
+
+#: views/admin/ecwd-calendar-meta.php:24
+msgid "Preview"
+msgstr "Vista previa"
+
+#: includes/texts.php:80 views/ecwd-organizer-content.php:102
+#: views/ecwd-event-content.php:183
+msgid "Back"
+msgstr "Volver"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Sábados"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Viernes"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Jueves"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Miércoles"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Jueves"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Lunes"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Domingos"
+
+#: includes/texts.php:70
+msgid "until"
+msgstr "hasta"
+
+#: includes/texts.php:69
+msgid "years"
+msgstr "años"
+
+#: includes/texts.php:68
+msgid "months"
+msgstr "meses"
+
+#: includes/texts.php:67
+msgid "weeks"
+msgstr "semanas"
+
+#: includes/texts.php:66
+msgid "days"
+msgstr "días"
+
+#: includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Repetir cada año"
+
+#: includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Repetir cada mes"
+
+#: includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Repetir cada semana"
+
+#: includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Repetir cada día"
+
+#: includes/texts.php:60 views/admin/ecwd-event-meta.php:127
+msgid "Repeat every"
+msgstr "Repetir cada"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "El evento acaba de empezar"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Categorías"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Días"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Restablecer filtros"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Cerrar filtros"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Mostrar los filtros"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "Vi"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Ju"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "Mi"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "Ma"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "Lu"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "Do"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "Sáb"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Vie"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Jue"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Mié"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Mar"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Lun"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Dom"
+
+#: includes/texts.php:21 views/admin/ecwd-event-meta.php:225
+#: views/admin/ecwd-event-meta.php:293 views/admin/ecwd-event-meta.php:378
+msgid "Saturday"
+msgstr "Sábado"
+
+#: includes/texts.php:20 views/admin/ecwd-event-meta.php:213
+#: views/admin/ecwd-event-meta.php:291 views/admin/ecwd-event-meta.php:376
+msgid "Friday"
+msgstr "Viernes"
+
+#: includes/texts.php:19 views/admin/ecwd-event-meta.php:201
+#: views/admin/ecwd-event-meta.php:289 views/admin/ecwd-event-meta.php:374
+msgid "Thursday"
+msgstr "Jueves"
+
+#: includes/texts.php:18 views/admin/ecwd-event-meta.php:189
+#: views/admin/ecwd-event-meta.php:287 views/admin/ecwd-event-meta.php:372
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: includes/texts.php:17 views/admin/ecwd-event-meta.php:176
+#: views/admin/ecwd-event-meta.php:285 views/admin/ecwd-event-meta.php:370
+msgid "Tuesday"
+msgstr "Martes"
+
+#: includes/texts.php:16 views/admin/ecwd-event-meta.php:164
+#: views/admin/ecwd-event-meta.php:283 views/admin/ecwd-event-meta.php:368
+msgid "Monday"
+msgstr "Lunes"
+
+#: includes/texts.php:15 views/admin/ecwd-event-meta.php:237
+#: views/admin/ecwd-event-meta.php:295 views/admin/ecwd-event-meta.php:380
+msgid "Sunday"
+msgstr "Domingo"
+
+#: includes/texts.php:13 views/admin/ecwd-event-meta.php:326
+msgid "December"
+msgstr "Diciembre"
+
+#: includes/texts.php:12 views/admin/ecwd-event-meta.php:324
+msgid "November"
+msgstr "Noviembre"
+
+#: includes/texts.php:11 views/admin/ecwd-event-meta.php:322
+msgid "October"
+msgstr "Octubre"
+
+#: includes/texts.php:10 views/admin/ecwd-event-meta.php:320
+msgid "September"
+msgstr "Septiembre"
+
+#: includes/texts.php:9 views/admin/ecwd-event-meta.php:318
+msgid "August"
+msgstr "Agosto"
+
+#: includes/texts.php:8 views/admin/ecwd-event-meta.php:316
+msgid "July"
+msgstr "Julio"
+
+#: includes/texts.php:7 views/admin/ecwd-event-meta.php:314
+msgid "June"
+msgstr "Junio"
+
+#: includes/texts.php:6 views/admin/ecwd-event-meta.php:312
+msgid "May"
+msgstr "Mayo"
+
+#: includes/texts.php:5 views/admin/ecwd-event-meta.php:310
+msgid "April"
+msgstr "Abril"
+
+#: includes/texts.php:4 views/admin/ecwd-event-meta.php:308
+msgid "March"
+msgstr "Marzo"
+
+#: includes/texts.php:3 views/admin/ecwd-event-meta.php:306
+msgid "February"
+msgstr "Febrero"
+
+#: includes/texts.php:2 views/admin/ecwd-event-meta.php:304
+msgid "January"
+msgstr "Enero"
+
+#: includes/register-settings.php:1089
+msgid "The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "La función de retorno utilizada para el ajuste <strong>%s</strong> no existe."
+
+#: includes/register-settings.php:820 includes/elementorWidget.php:108
+msgid "No"
+msgstr "No"
+
+#: includes/register-settings.php:819 includes/ecwd-uninstall.php:190
+#: includes/elementorWidget.php:107
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/register-settings.php:724 views/single-event.php:199
+#: views/single-event.php:351 views/ecwd-event-content.php:196
+#: views/ecwd-event-content.php:361 views/ecwd-event-popup.php:172
+#: views/ecwd-event-popup.php:305
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/register-settings.php:722 views/admin/ecwd-config.php:12
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/register-settings.php:684 includes/register-settings.php:708
+#: includes/register-settings.php:733 includes/register-settings.php:756
+#: includes/register-settings.php:777 includes/register-settings.php:800
+#: includes/register-settings.php:827 includes/register-settings.php:866
+#: includes/register-settings.php:957 includes/register-settings.php:988
+#: includes/register-settings.php:1015 includes/register-settings.php:1041
+#: includes/register-settings.php:1066
+msgid "This option is disabled in free version."
+msgstr "Esta opción está desactivada en la versión gratuita."
+
+#: includes/register-settings.php:502
+msgid "Rest script key"
+msgstr "Clave del script REST"
+
+#: includes/register-settings.php:489 includes/register-settings.php:600
+msgid "Open Google Maps when Marker is clicked"
+msgstr "Abrir Google Maps cuando al hacer clic en el marcador"
+
+#: includes/register-settings.php:482 includes/register-settings.php:593
+msgid "Satellite Gmap Type"
+msgstr "Gmap tipo satélite"
+
+#: includes/register-settings.php:474 includes/register-settings.php:585
+msgid "Period for showing events"
+msgstr "Período para mostrar eventos"
+
+#: includes/register-settings.php:473 includes/register-settings.php:584
+msgid "Period for List view"
+msgstr "Período para la vista de lista"
+
+#: includes/register-settings.php:466 includes/register-settings.php:577
+msgid "Add fixed height for events in posterboard view"
+msgstr "Añadir altura fija para los eventos en la vista de cartel"
+
+#: includes/register-settings.php:460 includes/register-settings.php:513
+#: includes/register-settings.php:571
+msgid "Show the repeat rate"
+msgstr "Mostrar la frecuencia de repetición"
+
+#: includes/register-settings.php:443
+msgid "Map style"
+msgstr "Estilo del mapa"
+
+#: includes/register-settings.php:437
+msgid "API key"
+msgstr "Clave de la API"
+
+#: includes/register-settings.php:429
+msgid "Get key"
+msgstr "Consigue una clave"
+
+#: includes/register-settings.php:419
+msgid "Custom css"
+msgstr "CSS personalizado"
+
+#: includes/register-settings.php:411
+msgid "The name of the specialised template."
+msgstr "El nombre de la plantilla especializada."
+
+#: includes/register-settings.php:410
+msgid "Template part name"
+msgstr "Nombre de la parte de la plantilla"
+
+#: includes/register-settings.php:396
+msgid "Display Image"
+msgstr "Mostrar la imagen"
+
+#: includes/register-settings.php:389
+msgid "Display Description"
+msgstr "Mostrar la descripción"
+
+#: includes/register-settings.php:374
+msgid "Events category slug"
+msgstr "Slug de las categorías de eventos"
+
+#: includes/register-settings.php:358
+msgid "Do not show past events"
+msgstr "No mostrar eventos pasados"
+
+#: includes/register-settings.php:351
+msgid "Show related events in the event page"
+msgstr "Mostrar eventos relacionados en la página del evento"
+
+#: includes/register-settings.php:344
+msgid "Open events in new tab"
+msgstr "Abrir eventos en una pestaña nueva"
+
+#: includes/register-settings.php:337
+msgid "Show events detail on hover"
+msgstr "Mostrar detalles del evento al pasar el cursor"
+
+#: includes/register-settings.php:331
+msgid "Include events in main loop"
+msgstr "Incluir eventos en el bucle principal"
+
+#: includes/register-settings.php:317
+msgid "Single Event slug"
+msgstr "Slug para el evento individual"
+
+#: includes/register-settings.php:311
+msgid "Define the slug for the events list page."
+msgstr "Define el slug para la página de lista de eventos."
+
+#: includes/register-settings.php:309
+msgid "Events slug"
+msgstr "Slug para los eventos"
+
+#: includes/register-settings.php:304
+msgid "Check to display events in popup."
+msgstr "Marcar para mostrar los eventos en mensajes emergentes."
+
+#: includes/register-settings.php:303
+msgid "Display Events in popup"
+msgstr "Mostrar los eventos en un mensaje emergente"
+
+#: includes/register-settings.php:297
+msgid "empty for all events"
+msgstr "vacío para todos los eventos"
+
+#: includes/register-settings.php:296
+msgid "Related events count"
+msgstr "Número de eventos relacionados"
+
+#: includes/register-settings.php:289
+msgid "Mark all days of multi-day event"
+msgstr "Marca todos los días para eventos de varios días"
+
+#: includes/register-settings.php:282
+msgid "Show event date in the events list page"
+msgstr "Mostrar la fecha del evento en la página de la lista de eventos"
+
+#: includes/register-settings.php:276
+msgid "Define the default text for empty events description."
+msgstr "Define el texto por defecto para los eventos sin descripción."
+
+#: includes/register-settings.php:275
+msgid "No additional detail for this event."
+msgstr "No hay detalles adicionales para este evento."
+
+#: includes/register-settings.php:274
+msgid "Description for events."
+msgstr "Descripción para los eventos."
+
+#: includes/register-settings.php:268
+msgid "Enable sidebar in event page"
+msgstr "Activar barra lateral en la página del evento"
+
+#: includes/register-settings.php:261
+msgid "In Events Archive page change post date to event start date"
+msgstr "En la página del archivo de eventos, cambia la fecha de publicación por la fecha de inicio del evento"
+
+#: includes/register-settings.php:254
+msgid "Sort by event start"
+msgstr "Ordenar por inicio del evento"
+
+#: includes/register-settings.php:253
+msgid "Order of events archive page"
+msgstr "Orden de la página del archivo de eventos"
+
+#: includes/register-settings.php:248
+msgid "Check to display category and Tags."
+msgstr "Marca para mostrar la categoría y las etiquetas."
+
+#: includes/register-settings.php:247
+msgid "Enable Category and Tags"
+msgstr "Activar la categoría y las etiquetas"
+
+#: includes/register-settings.php:239
+msgid "Visible event count per day"
+msgstr "Recuento de eventos visibles por día"
+
+#: includes/register-settings.php:222 includes/register-settings.php:223
+msgid "Event description max length."
+msgstr "Longitud máxima de la descripción del evento."
+
+#: includes/register-settings.php:215
+msgid "Grab the first post image"
+msgstr "Toma la primera imagen de la publicación"
+
+#: includes/register-settings.php:208
+msgid "Apply category color to event title in event page"
+msgstr "Aplicar color de categoría al título del evento en la página del evento"
+
+#: includes/register-settings.php:196
+msgid "Order of Organizers and Venues by"
+msgstr "Ordenar los organizadores y lugares por"
+
+#: includes/register-settings.php:182
+msgid "Define the starting day for the week."
+msgstr "Define el día de inicio de la semana."
+
+#: includes/register-settings.php:181
+msgid "Week start day"
+msgstr "Día de inicio de la semana"
+
+#: includes/register-settings.php:155
+msgid "Show AM/PM"
+msgstr "Mostrar AM/PM"
+
+#: includes/register-settings.php:148
+msgid "Time format"
+msgstr "Formato de hora"
+
+#: includes/register-settings.php:140
+msgid "Date format"
+msgstr "Formato de fecha"
+
+#: includes/register-settings.php:125
+msgid "Show TimeZone in event"
+msgstr "Mostrar la zona horaria en el evento"
+
+#: includes/register-settings.php:118
+msgid "Use Continent/City format, e.g. Europe/Berlin. If left empty, the server timezone will be used (if set in php settings), otherwise default Europe/Berlin.  <a target=\"_blank\" href=\"http://php.net/manual/en/timezones.php\">PHP Timezones</a>"
+msgstr "Usa el formato continente/ciudad, por ejemplo, Europa/Berlín. Si lo dejas vacío, se usará la zona horaria del servidor (si está configurado en los ajustes de PHP), en otro caso, será Europa/Berlín por defecto. <a target=\"_blank\" href=\"http://php.net/manual/en/timezones.php\">Zonas horarias de PHP</a>"
+
+#: includes/register-settings.php:117
+msgid "TimeZone"
+msgstr "Zona horaria"
+
+#: includes/register-settings.php:1107 views/admin/ecwd-calendar-meta.php:24
+msgid "Add Event"
+msgstr "Añadir un evento"
+
+#: includes/register-settings.php:71 includes/register-settings.php:1106
+msgid "Ical settings"
+msgstr "Ajustes de Ical"
+
+#: includes/register-settings.php:70 includes/register-settings.php:1105
+msgid "Gcal settings"
+msgstr "Ajustes de Gcal"
+
+#: includes/register-settings.php:69 includes/register-settings.php:1104
+msgid "FB settings"
+msgstr "Ajustes de FB"
+
+#: includes/register-settings.php:68 includes/register-settings.php:1103
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: includes/register-settings.php:67 includes/register-settings.php:1102
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: includes/register-settings.php:66 includes/register-settings.php:1101
+msgid "Category Page"
+msgstr "Página de categorías"
+
+#: includes/ecwd_pointers.php:512
+msgid "View Page"
+msgstr "Ver la página"
+
+#: includes/ecwd_pointers.php:504
+msgid "Add shortcode"
+msgstr "Añadir el shortcode"
+
+#: includes/ecwd_pointers.php:469 includes/ecwd_pointers.php:483
+msgid "Create a Page"
+msgstr "Crear una página"
+
+#: includes/ecwd_pointers.php:455
+msgid "Publish Event"
+msgstr "Publicar el evento"
+
+#: includes/ecwd_pointers.php:425
+msgid "Pick a Date"
+msgstr "Selecciona una fecha"
+
+#: includes/ecwd_pointers.php:411
+msgid "Add new Event"
+msgstr "Añadir nuevo evento"
+
+#: includes/ecwd_pointers.php:381 includes/ecwd_pointers.php:396
+msgid "Create an Event"
+msgstr "Crear un evento"
+
+#: includes/ecwd_pointers.php:309
+msgid "Publish Organizer"
+msgstr "Publicar organizador"
+
+#: includes/ecwd_pointers.php:295
+msgid "Add new organizer"
+msgstr "Añadir nuevo organizador"
+
+#: includes/ecwd_pointers.php:266 includes/ecwd_pointers.php:280
+msgid "Create an Organizer"
+msgstr "Crear un organizador"
+
+#: includes/ecwd_pointers.php:237
+msgid "Add new calendar"
+msgstr "Añadir nuevo calendario"
+
+#: includes/ecwd_pointers.php:219 includes/ecwd_pointers.php:233
+#: includes/ecwd_pointers.php:247 includes/ecwd_pointers.php:262
+#: includes/ecwd_pointers.php:276 includes/ecwd_pointers.php:291
+#: includes/ecwd_pointers.php:305 includes/ecwd_pointers.php:319
+#: includes/ecwd_pointers.php:335 includes/ecwd_pointers.php:349
+#: includes/ecwd_pointers.php:363 includes/ecwd_pointers.php:377
+#: includes/ecwd_pointers.php:392 includes/ecwd_pointers.php:407
+#: includes/ecwd_pointers.php:420 includes/ecwd_pointers.php:435
+#: includes/ecwd_pointers.php:450 includes/ecwd_pointers.php:465
+#: includes/ecwd_pointers.php:479 includes/ecwd_pointers.php:493
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/ecwd_pointers.php:205
+msgid "Start"
+msgstr "Comenzar"
+
+#: includes/ecwd_pointers.php:195
+msgid "Press view page to view your first calendar."
+msgstr "Pulsa «ver la página» para ver tu primer calendario."
+
+#: includes/ecwd_pointers.php:194
+msgid "Click on a calendar icon in visual editor to insert ECWD shortcode to page. Use the tabs to set up your calendar and press Publish button."
+msgstr "Haz clic en el icono de calendario en el editor visual para insertar en la página el shortcode de ECWD. Usa las pestañas para configurar tu calendario y presiona el botón «Publicar»."
+
+#: includes/ecwd_pointers.php:193
+msgid "Press Add New button to add a Page."
+msgstr "Pulsa el botón «Añadir nuevo» para añadir una página."
+
+#: includes/ecwd_pointers.php:191 includes/ecwd_pointers.php:192
+msgid "Go to Pages section."
+msgstr "Ir a la sección de páginas."
+
+#: includes/ecwd_pointers.php:190
+msgid "Provide a title and description(optional) for your event. And press Publish button."
+msgstr "Proporciona un título y una descripción (opcional) para tu evento. Y presiona el botón «Publicar»."
+
+#: includes/ecwd_pointers.php:189
+msgid "Assign event to a calendar. Additionaly select event venue and organizer(optional)."
+msgstr "Asigna el evento a un calendario. Además, selecciona el lugar del evento y el organizador (opcional)."
+
+#: includes/ecwd_pointers.php:188
+msgid "Provide event start and end dates(From and To)."
+msgstr "Proporciona las fecha de inicio y fin del evento (Desde y Hasta)."
+
+#: includes/ecwd_pointers.php:187
+msgid "Press Add New button to add an event."
+msgstr "Pulsa el botón «Añadir nuevo» para añadir un evento."
+
+#: includes/ecwd_pointers.php:185 includes/ecwd_pointers.php:186
+msgid "Go to Events section."
+msgstr "Ir a la sección de eventos."
+
+#: includes/ecwd_pointers.php:184
+msgid "Provide a title and description(optional) for your venue. And press Publish button."
+msgstr "Proporciona un título y una descripción (opcional) para tu local. Y pulsa el botón «Publicar»."
+
+#: includes/ecwd_pointers.php:183
+msgid "Press Add New button to add event venue/location."
+msgstr "Pulsa el botón «Añadir nuevo» para añadir el local/ubicación del evento."
+
+#: includes/ecwd_pointers.php:181 includes/ecwd_pointers.php:182
+msgid "Go to Venues section"
+msgstr "Ir a la sección de locales"
+
+#: includes/ecwd_pointers.php:180
+msgid "Provide a title and description(optional) for your organizer. And press Publish button."
+msgstr "Proporciona un título y una descripción (opcional) para el organizador. Y pulsa el botón «Publicar»."
+
+#: includes/ecwd_pointers.php:179
+msgid "Press Add New button to add organizer/event planner."
+msgstr "Pulsa el botón «Añadir nuevo» para añadir un organizador/planificador del evento."
+
+#: includes/ecwd_pointers.php:177 includes/ecwd_pointers.php:178
+msgid "Go to Organizers section."
+msgstr "Ir a la sección de organizadores."
+
+#: includes/ecwd_pointers.php:176
+msgid "Provide a title and description(optional) for your calendar. And press Publish button."
+msgstr "Proporciona un título y una descripción (opcional) para tu calendario. Y pulsa el botón «Publicar»."
+
+#: includes/ecwd_pointers.php:175
+msgid "Press Add New Calendar button to start working on your first calendar."
+msgstr "Pulsa el botón «Añadir un nuevo calendario» para empezar a trabajar en tu primer calendario."
+
+#: includes/ecwd_pointers.php:174
+msgid "As a first step go to Calendar section."
+msgstr "Como primer paso, ve a la sección del calendario"
+
+#: includes/ecwd-functions.php:462 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEGUNDOS"
+
+#: includes/ecwd-functions.php:461 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTOS"
+
+#: includes/ecwd-functions.php:460 includes/texts.php:54
+msgid "HOURS"
+msgstr "HORAS"
+
+#: includes/ecwd-functions.php:459 includes/texts.php:53
+msgid "DAYS"
+msgstr "DÍAS"
+
+#: includes/ecwd-event-class.php:221
+msgctxt "human_time_diff"
+msgid ", "
+msgstr ", "
+
+#: includes/ecwd-event-class.php:193
+msgid "%s mins"
+msgstr "%s mins"
+
+#: includes/ecwd-event-class.php:193
+msgid "%s min"
+msgstr "%s min"
+
+#: includes/ecwd-event-class.php:192
+msgid "%s hours"
+msgstr "%s horas"
+
+#: includes/ecwd-event-class.php:192
+msgid "%s hour"
+msgstr "%s hora"
+
+#: includes/ecwd-event-class.php:191
+msgid "%s days"
+msgstr "%s días"
+
+#: includes/ecwd-event-class.php:191
+msgid "%s day"
+msgstr "%s día"
+
+#: includes/ecwd-event-class.php:190
+msgid "%s weeks"
+msgstr "%s semanas"
+
+#: includes/ecwd-event-class.php:190
+msgid "%s week"
+msgstr "%s semana"
+
+#: includes/ecwd-event-class.php:189
+msgid "%s months"
+msgstr "%s meses"
+
+#: includes/ecwd-event-class.php:189
+msgid "%s month"
+msgstr "%s mes"
+
+#: includes/ecwd-event-class.php:188
+msgid "%s years"
+msgstr "%s años"
+
+#: includes/ecwd-event-class.php:188
+msgid "%s year"
+msgstr "%s año"
+
+#: includes/ecwd-display-class.php:341
+msgid "Read more"
+msgstr "Leer más"
+
+#: includes/ecwd-cpt-filter.php:81
+msgid "Reset"
+msgstr "Restablecer"
+
+#: includes/ecwd-cpt-filter.php:74 views/admin/ecwd-event-meta.php:30
+msgid "To"
+msgstr "Hasta"
+
+#: includes/ecwd-cpt-filter.php:67 views/admin/ecwd-event-meta.php:23
+msgid "From"
+msgstr "Desde"
+
+#: includes/ecwd-cpt-class.php:1592
+msgid "Cache has been deleted."
+msgstr "La caché se ha borrado."
+
+#: includes/ecwd-cpt-class.php:1441
+msgid "Color"
+msgstr "Color"
+
+#: includes/ecwd-cpt-class.php:1440 includes/ecwd-cpt-class.php:1458
+msgid "Icon"
+msgstr "Icono"
+
+#: includes/ecwd-cpt-class.php:1351
+msgid "Event Tag"
+msgstr "Etiqueta del evento"
+
+#: includes/ecwd-cpt-class.php:1332
+msgid "New Event Category Name"
+msgstr "Nuevo nombre de categoría de evento"
+
+#: includes/ecwd-cpt-class.php:1331
+msgid "Add New Event Category"
+msgstr "Añadir nueva categoría de evento"
+
+#: includes/ecwd-cpt-class.php:1330
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: includes/ecwd-cpt-class.php:1329
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: includes/ecwd-cpt-class.php:1328
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: includes/ecwd-cpt-class.php:1327
+msgid "Parent Category"
+msgstr "Categoría superior"
+
+#: includes/ecwd-cpt-class.php:1326
+msgid "All Event Categories"
+msgstr "Todas las categorías de eventos"
+
+#: includes/ecwd-cpt-class.php:1325
+msgid "Search Event Categories"
+msgstr "Buscar categorías de eventos"
+
+#: includes/ecwd-cpt-class.php:1324
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr "Categoría de eventos"
+
+#: includes/ecwd-cpt-class.php:1323
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr "Categorías de eventos"
+
+#: includes/ecwd-cpt-class.php:1274 views/admin/ecwd-event-meta.php:21
+msgid "Event Dates"
+msgstr "Fechas del evento"
+
+#: includes/ecwd-cpt-class.php:1264
+msgid "Default Calendar"
+msgstr "Calendario por defecto"
+
+#: includes/ecwd-cpt-class.php:1263 views/admin/ecwd-calendar-meta.php:27
+msgid "Calendar Shortcode"
+msgstr "Shortcode del calendario"
+
+#: includes/ecwd-cpt-class.php:1262
+msgid "Calendar ID"
+msgstr "ID del calendario"
+
+#: includes/ecwd-cpt-class.php:900
+msgid "Organizer Details"
+msgstr "Detalles del organizador"
+
+#: includes/ecwd-cpt-class.php:887
+msgid "Venue Details"
+msgstr "Detalles del local"
+
+#: includes/ecwd-cpt-class.php:782
+msgid "Calendar Theme Settings"
+msgstr "Ajustes del tema del calendario"
+
+#: includes/ecwd-cpt-class.php:751
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: includes/ecwd-cpt-class.php:618
+msgid "%4$s draft updated. %1$sView %2$s%3$s"
+msgstr "%4$s borrador actualizado. %1$sVer %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:617
+msgid "%4$s submitted. %1$sView %2$s%3$s"
+msgstr "%4$s enviado. %1$sVer %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:616
+msgid "%4$s saved. %1$sView %2$s%3$s"
+msgstr "%4$s guardado. %1$sVer %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:615
+msgid "%4$s published. %1$sView %2$s%3$s"
+msgstr "%4$s publicado. %1$sVer %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:613 includes/ecwd-cpt-class.php:614
+msgid "%4$s updated. %1$sView %2$s%3$s"
+msgstr "%4$s actualizado. %1$sVer %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:608
+msgid "event"
+msgstr "evento"
+
+#: includes/ecwd-cpt-class.php:558 includes/ecwd-cpt-class.php:560
+#: views/admin/ecwd-calendar-meta.php:102
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/ecwd-cpt-class.php:527 includes/ecwd-cpt-class.php:568
+msgid "%4$s draft updated."
+msgstr "%4$s borrador actualizado."
+
+#: includes/ecwd-cpt-class.php:526 includes/ecwd-cpt-class.php:567
+msgid "%4$s submitted. "
+msgstr "%4$s enviado. "
+
+#: includes/ecwd-cpt-class.php:525 includes/ecwd-cpt-class.php:566
+msgid "%4$s saved."
+msgstr "%4$s guardado."
+
+#: includes/ecwd-cpt-class.php:524 includes/ecwd-cpt-class.php:565
+msgid "%4$s published."
+msgstr "%4$s publicado."
+
+#: includes/ecwd-cpt-class.php:523 includes/ecwd-cpt-class.php:564
+msgid "%4$s updated. "
+msgstr "%4$s actualizado."
+
+#: includes/ecwd-cpt-class.php:522 includes/ecwd-cpt-class.php:563
+msgid "%4$s updated."
+msgstr "%4$s actualizado."
+
+#: includes/ecwd-cpt-class.php:517
+msgid "calendar"
+msgstr "calendario"
+
+#: includes/ecwd-cpt-class.php:417
+msgid "No Calendars found in Trash."
+msgstr "No se han encontrado calendarios en la papelera."
+
+#: includes/ecwd-cpt-class.php:416
+msgid "No Calendars found."
+msgstr "No se han encontrado calendarios."
+
+#: includes/ecwd-cpt-class.php:415
+msgid "Search Calendar"
+msgstr "Buscar calendario"
+
+#: includes/ecwd-cpt-class.php:413 views/ecwd-event-content.php:172
+msgid "View Calendar"
+msgstr "Ver calendario"
+
+#: includes/ecwd-cpt-class.php:412
+msgid "Edit Calendar"
+msgstr "Editar calendario"
+
+#: includes/ecwd-cpt-class.php:411
+msgid "New Calendar"
+msgstr "Nuevo calendario"
+
+#: includes/ecwd-cpt-class.php:409 includes/ecwd-cpt-class.php:410
+msgid "Add New Calendar"
+msgstr "Añadir nuevo calendario"
+
+#: includes/ecwd-cpt-class.php:376
+msgid "No Venues found in Trash."
+msgstr "No se han encontrado locales en la papelera."
+
+#: includes/ecwd-cpt-class.php:375
+msgid "No Venues found."
+msgstr "No se encontraron locales."
+
+#: includes/ecwd-cpt-class.php:374
+msgid "Search Venue"
+msgstr "Buscar local"
+
+#: includes/ecwd-cpt-class.php:372
+msgid "View Venue"
+msgstr "Ver local"
+
+#: includes/ecwd-cpt-class.php:371 views/admin/ecwd-event-venues-meta.php:285
+msgid "Edit Venue"
+msgstr "Editar local"
+
+#: includes/ecwd-cpt-class.php:370
+msgid "New Venue"
+msgstr "Nuevo local"
+
+#: includes/ecwd-cpt-class.php:369
+msgid "Add New Venue"
+msgstr "Añadir nuevo local"
+
+#: includes/ecwd-cpt-class.php:366 includes/ecwd-cpt-class.php:367
+#: includes/ecwd-cpt-class.php:738 views/single-event.php:277
+#: views/ecwd-event-content.php:272 views/ecwd-event-popup.php:243
+msgid "Venue"
+msgstr "Local"
+
+#: includes/ecwd-cpt-class.php:365 includes/ecwd-cpt-class.php:373
+#: includes/texts.php:50 views/admin/import.php:28 views/admin/import.php:43
+msgid "Venues"
+msgstr "Locales"
+
+#: includes/ecwd-cpt-class.php:336
+msgid "No Organizers found in Trash."
+msgstr "No se han encontrado organizadores en la papelera"
+
+#: includes/ecwd-cpt-class.php:335
+msgid "No Organizers found."
+msgstr "No se han encontrado organizadores."
+
+#: includes/ecwd-cpt-class.php:334
+msgid "Search Organizer"
+msgstr "Buscar organizador"
+
+#: includes/ecwd-cpt-class.php:332
+msgid "View Organizer"
+msgstr "Ver organizador"
+
+#: includes/ecwd-cpt-class.php:331
+msgid "Edit Organizer"
+msgstr "Editar organizador"
+
+#: includes/ecwd-cpt-class.php:330
+msgid "New Organizer"
+msgstr "Nuevo organizador"
+
+#: includes/ecwd-cpt-class.php:329
+msgid "Add New Organizer"
+msgstr "Añadir nuevo organizador"
+
+#: includes/ecwd-cpt-class.php:328 includes/ecwd-cpt-class.php:368
+#: includes/ecwd_pointers.php:497
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: includes/ecwd-cpt-class.php:326 includes/ecwd-cpt-class.php:327
+msgid "Organizer"
+msgstr "Organizador"
+
+#: includes/ecwd-cpt-class.php:325 includes/ecwd-cpt-class.php:333
+#: includes/ecwd-cpt-class.php:743 views/admin/import.php:27
+#: views/admin/import.php:42 views/single-event.php:231
+#: views/ecwd-event-content.php:225 views/ecwd-event-popup.php:197
+msgid "Organizers"
+msgstr "Organizadores"
+
+#: includes/ecwd-cpt-class.php:290
+msgid "No events found in Trash."
+msgstr "No se han encontrado eventos en la papelera."
+
+#: includes/ecwd-cpt-class.php:289
+msgid "No events found."
+msgstr "No se encontraron eventos."
+
+#: includes/ecwd-cpt-class.php:288
+msgid "Search Event"
+msgstr "Buscar evento"
+
+#: includes/ecwd-cpt-class.php:286
+msgid "View Event"
+msgstr "Ver evento"
+
+#: includes/ecwd-cpt-class.php:285
+msgid "Edit Event"
+msgstr "Editar evento"
+
+#: includes/ecwd-cpt-class.php:284
+msgid "New Event"
+msgstr "Nuevo evento"
+
+#: includes/ecwd-cpt-class.php:282 includes/ecwd-cpt-class.php:283
+msgid "Add New Event"
+msgstr "Añadir nuevo evento"
+
+#: includes/ecwd-cpt-class.php:280 includes/ecwd-cpt-class.php:281
+#: includes/ecwd-cpt-class.php:610
+msgid "Event"
+msgstr "Evento"
+
+#: includes/ecwd-cpt-class.php:270
+msgctxt "URL slug"
+msgid "organizer"
+msgstr "organizador"
+
+#: includes/ecwd-cpt-class.php:269
+msgctxt "URL slug"
+msgid "venue"
+msgstr "local"
+
+#: includes/ecwd-cpt-class.php:155
+msgid "Duplicate Event"
+msgstr "Duplicar evento"
+
+#: includes/calendar-class.php:1249
+msgid "No events"
+msgstr "No hay eventos"
+
+#: includes/calendar-class.php:1121
+msgid "More events"
+msgstr "Más eventos"
+
+#: includes/calendar-class.php:522
+msgid "No Events"
+msgstr "No hay eventos"
+
+#: includes/activation_settings_page.php:114
+msgid "Install sample data"
+msgstr "Instalar datos de ejemplo"
+
+#: ecwd_class.php:337 includes/ecwd-functions.php:382
+#: includes/calendar-class.php:442 includes/calendar-class.php:1051
+#: includes/calendar-class.php:1194 views/admin/ecwd-event-meta.php:44
+#: views/related_events.php:54
+msgid "All day"
+msgstr "Todo el día"
+
+#: ecwd_class.php:229 includes/ecwd-cpt-class.php:728
+msgid "Event Details"
+msgstr "Detalles del evento"
+
+#: ecwd_admin_class.php:1432
+msgid "Publishing the Calendar as a Widget"
+msgstr "Publicar el calendario como un widget"
+
+#: ecwd_admin_class.php:1427
+msgid "Publishing the Calendar into a Page/Post"
+msgstr "Publicar el calendario en una página/entrada"
+
+#: ecwd_admin_class.php:1416
+msgid "Adding a venue"
+msgstr "Añadir un local"
+
+#: ecwd_admin_class.php:1412
+msgid "All Venues"
+msgstr "Todos los locales"
+
+#: ecwd_admin_class.php:1408
+msgid "Creating/Adding Venues"
+msgstr "Crear/Añadir locales"
+
+#: ecwd_admin_class.php:1402
+msgid "Adding an organizer"
+msgstr "Añadir un organizador"
+
+#: ecwd_admin_class.php:1398
+msgid "All Organizers"
+msgstr "Todos los organizadores"
+
+#: ecwd_admin_class.php:1394
+msgid "Creating/Adding Organizers"
+msgstr "Crear/Añadir organizadores"
+
+#: includes/ecwd-cpt-class.php:1350 ecwd_admin_class.php:1388
+msgid "Event Tags"
+msgstr "Etiquetas de evento"
+
+#: includes/ecwd-cpt-class.php:1333 ecwd_admin_class.php:1384
+msgid "Event Categories"
+msgstr "Categorías de evento"
+
+#: ecwd_admin_class.php:1380
+msgid "Adding Events"
+msgstr "Añadir eventos"
+
+#: ecwd_admin_class.php:1376
+msgid "All Events"
+msgstr "Todos los eventos"
+
+#: ecwd_admin_class.php:1372
+msgid "Creating/Modifying Events"
+msgstr "Crear/Modificar eventos"
+
+#: ecwd_admin_class.php:1362
+msgid "Preview/Add Event"
+msgstr "Previsualizar/Añadir evento"
+
+#: ecwd_admin_class.php:1358
+msgid "Adding a Calendar"
+msgstr "Añadiendo un calendario"
+
+#: ecwd_admin_class.php:1354
+msgid "All Calendars"
+msgstr "Todos los calendarios"
+
+#: includes/ecwd-cpt-class.php:405 includes/ecwd-cpt-class.php:407
+#: includes/ecwd-cpt-class.php:414 includes/ecwd-cpt-class.php:733
+#: ecwd_admin_class.php:1350
+msgid "Calendars"
+msgstr "Calendarios"
+
+#: ecwd_admin_class.php:1345
+msgid "Installation Wizard/ Options Menu"
+msgstr "Asistente de instalación / Menú de opciones"
+
+#: ecwd_admin_class.php:1339
+msgid "7 Views"
+msgstr "7 Vistas"
+
+#: ecwd_admin_class.php:1335
+msgid "5 Customizable Themes"
+msgstr "5 temas personalizables"
+
+#: ecwd_admin_class.php:1323
+msgid "Quick and Easy Event Management"
+msgstr "Gestión de eventos fácil y rápida"
+
+#. Description of the plugin
+#: ecwd_admin_class.php:1320
+msgid "Event Calendar WD is an easy event management and planning tool with advanced features."
+msgstr "Event Calendar WD es una herramienta fácil de gestión y planificación de eventos con funciones avanzadas."
+
+#: ecwd_admin_class.php:1206
+msgid "Change settings"
+msgstr "Cambiar ajustes"
+
+#: ecwd_admin_class.php:1202
+msgid "Create, edit and delete Event Tags"
+msgstr "Crear, editar y borrar etiquetas de eventos"
+
+#: ecwd_admin_class.php:1198
+msgid "Create, edit and delete Event Categories"
+msgstr "Crear, editar y borrar categorias de eventos"
+
+#: ecwd_admin_class.php:1194
+msgid "Create, edit and delete Venues"
+msgstr "Crear, editar y borrar lugares"
+
+#: ecwd_admin_class.php:1189
+msgid "Create, edit and delete Organizers"
+msgstr "Crear, editar y borrar organizadores"
+
+#: ecwd_admin_class.php:1184
+msgid "Create, edit and delete Events"
+msgstr "Crear, editar y borrar eventos"
+
+#: ecwd_admin_class.php:1179
+msgid "Create, edit and delete Calendars"
+msgstr "Crear, editar y borrar calendarios"
+
+#: includes/register-settings.php:65 includes/register-settings.php:1100
+#: includes/ecwd-cpt-class.php:279 includes/ecwd-cpt-class.php:287
+#: ecwd_admin_class.php:1156 views/admin/import.php:26
+#: views/admin/import.php:41 views/admin/ecwd-calendar-meta.php:61
+msgid "Events"
+msgstr "Eventos"
+
+#. Plugin Name of the plugin
+#: ecwd_admin_class.php:1150 views/widgets.php:18 ecwd.php:67
+msgid "Event Calendar WD"
+msgstr "Event Calendar WD"
+
+#: includes/calendar-class.php:221 includes/elementorWidget.php:128
+#: ecwd_admin_class.php:1025 views/admin/ecwd-shortcode-iframe.php:106
+#: views/widgets.php:172
+msgid "Day"
+msgstr "Día"
+
+#: includes/calendar-class.php:217 includes/elementorWidget.php:127
+#: ecwd_admin_class.php:1024 views/admin/ecwd-shortcode-iframe.php:105
+#: views/widgets.php:171
+msgid "Week"
+msgstr "Semana"
+
+#: includes/calendar-class.php:213 includes/elementorWidget.php:126
+#: ecwd_admin_class.php:1023 views/admin/ecwd-shortcode-iframe.php:104
+#: views/widgets.php:170
+msgid "List"
+msgstr "Lista"
+
+#: includes/calendar-class.php:205 includes/calendar-class.php:209
+#: includes/elementorWidget.php:125 ecwd_admin_class.php:1022
+#: views/admin/ecwd-shortcode-iframe.php:103 views/widgets.php:169
+msgid "Month"
+msgstr "Mes"
+
+#: ecwd_admin_class.php:871 views/admin/ecwd-shortcode-iframe.php:150
+msgid "Filter addon should be purchased separately."
+msgstr "La extensión de filtro debe ser comprada por separado."
+
+#: ecwd_admin_class.php:870 views/admin/ecwd-shortcode-iframe.php:147
+msgid "Upgrade to Premium version to access three more view options: posterboard, map and 4 days."
+msgstr "Actualiza a la versión Premium y accede a tres opciones de vista más: cartel, mapa y 4 días."
+
+#: includes/elementorWidget.php:110 ecwd_admin_class.php:869
+#: views/admin/ecwd-shortcode-iframe.php:98
+msgid "Upgrade to Premium version."
+msgstr "Actualizar a la versión premium."
+
+#: ecwd_admin_class.php:868
+msgid "Get and activate filters add-on"
+msgstr "Consigue y activa la extensión de filtros"
+
+#: includes/elementorWidget.php:169 ecwd_admin_class.php:867
+msgid "View 4"
+msgstr "Vista 4"
+
+#: includes/elementorWidget.php:158 ecwd_admin_class.php:866
+msgid "View 3"
+msgstr "Vista 3"
+
+#: includes/elementorWidget.php:147 ecwd_admin_class.php:865
+msgid "View 2"
+msgstr "Vista 2"
+
+#: includes/elementorWidget.php:136 ecwd_admin_class.php:864
+msgid "View 1"
+msgstr "Vista 1"
+
+#: ecwd_admin_class.php:863 views/admin/ecwd-shortcode-iframe.php:87
+msgid "Date format Y-m(2016-05) or empty for current date"
+msgstr "Formato de fecha Y-m(2016-05) o vacío para la fecha actual"
+
+#: includes/register-settings.php:77 ecwd_admin_class.php:862
+#: views/admin/ecwd-shortcode-iframe.php:26
+msgid "Filters"
+msgstr "Filtros"
+
+#: includes/elementorWidget.php:120 ecwd_admin_class.php:861
+#: views/admin/ecwd-shortcode-iframe.php:25
+msgid "Views"
+msgstr "Vistas"
+
+#: includes/register-settings.php:64 includes/register-settings.php:1099
+#: includes/elementorWidget.php:47 ecwd_admin_class.php:860
+#: views/admin/ecwd-shortcode-iframe.php:24
+msgid "General"
+msgstr "General"
+
+#: includes/elementorWidget.php:104 ecwd_admin_class.php:859
+#: views/admin/ecwd-shortcode-iframe.php:89
+msgid "Enable event search"
+msgstr "Activar búsqueda de eventos"
+
+#: includes/elementorWidget.php:95 ecwd_admin_class.php:858
+#: views/admin/ecwd-shortcode-iframe.php:78
+msgid "Calendar start date"
+msgstr "Fecha de inicio del calendario"
+
+#: ecwd_admin_class.php:857 views/admin/ecwd-shortcode-iframe.php:68
+msgid "Events per page in list view"
+msgstr "Eventos por página en vista de lista"
+
+#: includes/elementorWidget.php:73 ecwd_admin_class.php:856
+#: views/admin/ecwd-shortcode-iframe.php:52
+msgid "Select View type"
+msgstr "Selecciona el tipo de vista"
+
+#: ecwd_admin_class.php:855
+msgid "Please add a calendar before using the shortcode"
+msgstr "Por favor, añade un calendario antes de usar el shortcode"
+
+#: includes/elementorWidget.php:61 ecwd_admin_class.php:854
+#: views/admin/ecwd-shortcode-iframe.php:32
+msgid "Select Calendar"
+msgstr "Selecciona el calendario"
+
+#: ecwd_admin_class.php:853
+msgid "ECWD Shortcode"
+msgstr "Shortcode de ECWD"
+
+#: ecwd_admin_class.php:839
+msgid "Event List"
+msgstr "Lista de eventos"
+
+#: ecwd_admin_class.php:838
+msgid "Enter event name"
+msgstr "Introduce el nombre del evento"
+
+#: includes/elementorWidget.php:124 ecwd_admin_class.php:837
+#: ecwd_admin_class.php:1012 ecwd_admin_class.php:1021
+#: views/admin/ecwd-shortcode-iframe.php:140
+#: views/admin/ecwd-event-venues-meta.php:80
+msgid "None"
+msgstr "Ninguno"
+
+#: ecwd_class.php:228 includes/ecwd-functions.php:17 ecwd_admin_class.php:830
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: ecwd_admin_class.php:542 ecwd_admin_class.php:543
+msgid "Config"
+msgstr "Configuración"
+
+#: ecwd_admin_class.php:531 ecwd_admin_class.php:532 ecwd_admin_class.php:1422
+msgid "Calendar Themes"
+msgstr "Temas del calendario"
+
+#: views/admin/licensing.php:69
+msgid "Premium Version"
+msgstr "Versión Premium"
+
+#: ecwd_admin_class.php:515 ecwd_admin_class.php:516 ecwd_admin_class.php:1155
+#: ecwd_admin_class.php:1366
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/ecwd-cpt-class.php:406 includes/ecwd-cpt-class.php:408
+#: includes/ecwd-cpt-class.php:519 ecwd_admin_class.php:399
+#: ecwd_admin_class.php:840
+msgid "Calendar"
+msgstr "Calendario"
+
+#: ecwd_admin_class.php:95
+msgid "Install"
+msgstr "Instalar"
+
+#: ecwd_admin_class.php:92
+msgid "plugin."
+msgstr "plugin."
+
+#: ecwd_admin_class.php:91
+msgid "FREE SEO"
+msgstr "SEO GRATIS"
+
+#: ecwd_admin_class.php:90
+msgid "More details"
+msgstr "Más detalles"
+
+#: ecwd_admin_class.php:89
+msgid "Event Calendar WD advises: Optimize your web pages for search engines with the"
+msgstr "Consejo de Event Calendar WD: Optimiza tus páginas web para los motores de búsqueda con el"

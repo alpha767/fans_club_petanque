@@ -1,0 +1,126 @@
+# Translation of Plugins - WordPress Membership Plugin &#8211; Restrict Content - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WordPress Membership Plugin &#8211; Restrict Content - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-21 08:05:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WordPress Membership Plugin &#8211; Restrict Content - Stable (latest release)\n"
+
+#. Tags of the plugin/theme
+msgid "Restrict content, member only, registered, logged in, restricted access, restrict access, limiit access, read-only, read only"
+msgstr "Restrict content, member only, registered, logged in, restricted access, restrict access, limiit access, read-only, read only"
+
+#. Author URI of the plugin/theme
+msgid "http://pippinsplugins.com"
+msgstr "http://pippinsplugins.com"
+
+#. Author of the plugin/theme
+msgid "Pippin Williamson"
+msgstr "Pippin Williamson"
+
+#. Description of the plugin/theme
+msgid "Restrict Content to registered users only. This is a simple plugin that will allow you to easily restrict complete posts / pages to logged in users only."
+msgstr "Restringir el contenido solo para usuarios registrados. Este es un sencillo plugin que te permitirá restringir fácilmente las entradas / páginas completas solo para los usuarios conectados."
+
+#. #-#-#-#-#  tmp-restrict-content.pot (Restrict Content 2.1.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/settings.php:105
+msgid "Restrict Content"
+msgstr "Restrict Content"
+
+#: includes/settings.php:81
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+#: includes/settings.php:74
+msgid "Message displayed when a user does not have permission to view Subscriber restricted content"
+msgstr "Mensaje mostrado cuando un usuario no tiene permiso para ver el contenido restringido de suscriptor"
+
+#: includes/settings.php:71
+msgid "Subscribers"
+msgstr "Suscriptores"
+
+#: includes/settings.php:67
+msgid "Message displayed when a user does not have permission to view Contributor restricted content"
+msgstr "Mensaje mostrado cuando un usuario no tiene permiso para ver el contenido restringido de colaborador"
+
+#: includes/settings.php:64
+msgid "Contributors"
+msgstr "Colaboradores"
+
+#: includes/settings.php:60
+msgid "Message displayed when a user does not have permission to view Author restricted content"
+msgstr "Mensaje mostrado cuando un usuario no tiene permiso para ver el contenido restringido de autor"
+
+#: includes/settings.php:57
+msgid "Authors"
+msgstr "Autores"
+
+#: includes/settings.php:53
+msgid "Message displayed when a user does not have permission to view Editor restricted content"
+msgstr "Mensaje mostrado cuando un usuario no tiene permiso para ver el contenido restringido de editor"
+
+#: includes/settings.php:50
+msgid "Editors"
+msgstr "Editores"
+
+#: includes/settings.php:46
+msgid "Message displayed when a user does not have permission to view Adminstrator restricted content"
+msgstr "Mensaje mostrado cuando un usuario no tiene permiso para ver el contenido restringido de administrador"
+
+#: includes/settings.php:43
+msgid "Adminstrators"
+msgstr "Administradores"
+
+#: includes/settings.php:40
+msgid "User Level Restriction Messages"
+msgstr "Mensajes de restricción de nivel de usuario"
+
+#: includes/settings.php:36
+msgid "The <strong>{userlevel}</strong> tag will be automatically replaced with the permission level needed."
+msgstr "La etiqueta <strong>{nivel de usuario}</strong> se reemplazará automáticamente con el nivel de permiso necesario."
+
+#: includes/settings.php:35
+msgid "When using the [restrict ... ] .... [/restrict] Short Code, this is the message displayed when a user does not have the appropriate permissions."
+msgstr "Cuando se utiliza el shortcode [restrict ... ] .... [/restrict] , este es el mensaje que se muestra cuando un usuario no tiene los permisos apropiados."
+
+#: includes/settings.php:32
+msgid "Restricted Message"
+msgstr "Mensaje de restricción"
+
+#: includes/settings.php:29
+msgid "Short Code Messages"
+msgstr "Mensajes de shortcodes"
+
+#: includes/settings.php:21
+msgid "Options saved"
+msgstr "Opciones guardadas"
+
+#: includes/settings.php:15 includes/settings.php:105
+msgid "Restrict Content Settings"
+msgstr "Ajustes de Restrict Content"
+
+#: includes/metabox.php:52
+msgid "Use these options to restrict this entire entry, or the [restrict ...] ... [/restrict] short code to restrict partial content."
+msgstr "Utiliza estas opciones para restringir el acceso a toda la entrada, o el shortcode [restrict ...] ... [/restrict] para restringir de forma parcial el contenido."
+
+#: includes/metabox.php:25
+msgid "Hide the excerpt of this post / page from the Feed?"
+msgstr "¿Ocultar el extracto de esta entrada / página del feed RSS?"
+
+#: includes/metabox.php:22
+msgid "Hide from Feed?"
+msgstr "¿Ocultar del feed?"
+
+#: includes/metabox.php:17
+msgid "Choose the user level that can see this page / post"
+msgstr "Elige el nivel de usuario que puede ver el contenido de esta página / entrada"
+
+#: includes/metabox.php:14
+msgid "User Level"
+msgstr "Nivel de usuario"
